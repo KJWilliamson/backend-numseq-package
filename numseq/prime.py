@@ -1,2 +1,2 @@
-def prime():
+def primes():
     pass

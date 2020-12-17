@@ -1,10 +1,10 @@
-def square():
+def square(n):
+    return n ** 2
+
+
+def triangle(n):
     pass
 
 
-def triangle():
-    pass
-
-
-def cube():
-    pass
+def cube(n):
+    return n ** 3
