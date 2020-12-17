@@ -13,6 +13,7 @@ your code will have problems if it does not handle values of n <= 0.
 
 
 def fib(n):
+    '''returns the nth Fibonacci number '''
     if n <= 0:
         return n
     elif n == 1:
